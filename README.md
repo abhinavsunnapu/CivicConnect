@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CivicConnect
 
 **An AI-powered smart civic issue reporting and resolution platform.**
@@ -124,3 +125,6 @@ Contribution guidelines will be added once the core modules are in place.
 ## License
 
 A license has not been chosen yet.
+=======
+# CivicConnect
+>>>>>>> ee9ba17751b0e6925d20e4eac59de202d653822d
